@@ -1,0 +1,25 @@
+*{
+    margin:0%
+}
+
+
+.flex-container{
+        display: flex;
+      
+        /*this centers the text horizontally*/
+        justify-content: center;
+      
+        /*this centers the text vertically*/
+        align-items: center;
+      
+        height: 120px;
+        color: black;
+        font-size: 1.2em;
+        background: yellow;
+        line-height: 5px;
+        height: 100vh;
+      }
+
+h1{
+   font-size: 4em;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;}
